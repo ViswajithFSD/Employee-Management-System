@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: Employee.Server
+
+  datasource:
+    url: jdbc:mysql://database-1.cjam2c6eu5e6.eu-north-1.rds.amazonaws.com/employeedb?useSSL=false&serverTimezone=UTC
+    username: admin
+    password: Vishwa7989
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true

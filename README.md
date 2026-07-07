@@ -1,5 +1,6 @@
 # Employee-Management-System
 
+
 Overview A Full Stack Employee Management System developed using Spring Boot, React.js, and MySQL. The application demonstrates full-stack development by providing a responsive user interface and RESTful APIs to perform complete employee management operations.
 
 Features
@@ -51,4 +52,5 @@ Implementing CRUD Functionality
 Applying MVC Architecture
 Managing State in React
 Full Stack Application Development
-Author Viswajith Ganesh
+Author 
+Viswajith Ganesh
